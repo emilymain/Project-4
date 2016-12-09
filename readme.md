@@ -2,7 +2,7 @@
 ##Name TBD
 
 ####Idea Behind The Project
-I would like to build a project where users can search out upcoming concerts in their area. I would also like for users to be able to post details about concerts/gigs they are having so artists without as much advertising power or who play smaller venues can spread the word about their shows. 
+I would like to build a project where users can search out upcoming concerts in their area. I would also like for users to be able to post details about concerts/gigs they are having so artists without as much advertising power or who play smaller venues can spread the word about their shows.
 
 ####MVP
 * Users can create profiles with log in and logout capabilities.
@@ -12,17 +12,15 @@ I would like to build a project where users can search out upcoming concerts in 
 
 
 #####Technologies I Plan on Using
-* MEAN-Stack   
-* HTML
-* CSS3
-* Javascript
+* MEAN-Stack
+* Mongo
+* Express
 * Angular
+* Node   
+* Mongoose 
 * Git
 * Github
 * Heroku
-* Mongo
-* Mongoose
-* Angular
 * GoogleMaps API
 * Song Kick API
 * Sound Cloud API ?
