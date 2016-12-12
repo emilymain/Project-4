@@ -1,6 +1,9 @@
 #Project 4
 ##Name TBD
 
+#Repository Links
+* [Backend](https://github.com/emilymain/Project-4-Backend)
+
 ####Idea Behind The Project
 I would like to build a project where users can search out upcoming concerts in their area. I would also like for users to be able to post details about concerts/gigs they are having so artists without as much advertising power or who play smaller venues can spread the word about their shows.
 
@@ -17,7 +20,7 @@ I would like to build a project where users can search out upcoming concerts in 
 * Express
 * Angular
 * Node   
-* Mongoose 
+* Mongoose
 * Git
 * Github
 * Heroku
